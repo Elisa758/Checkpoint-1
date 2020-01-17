@@ -19,8 +19,6 @@ namespace Checkpoint_1
             {
                 Console.WriteLine(usersArray[i]);
             }
-
-
             return usersArray;
         }
 
