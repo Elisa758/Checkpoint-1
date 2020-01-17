@@ -21,7 +21,7 @@ namespace Checkpoint_1
             }
 
 
-                return usersArray;
+            return usersArray;
         }
 
         static int SumArrray(int[] userArray)
@@ -62,7 +62,7 @@ namespace Checkpoint_1
             {
                 Console.WriteLine(userArrayToSort[i]);
             }
-                return userArrayToSort;
+            return userArrayToSort;
         }
         
         static void Main(string[] args)
